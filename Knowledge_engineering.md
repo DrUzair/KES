@@ -3,6 +3,7 @@
 **Constraints** exposed by
 **Representations** that enable
 **computations** that
-**Reasoning, learn and
+**Reason, learn and
 connect**
-Perception with Action
+Perception to Action.
+
