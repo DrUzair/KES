@@ -1,9 +1,9 @@
 
 **Algorithms** that exploit
-**Constraints** exposed by
-**Representations** that enable
+**constraints** exposed by
+**representations** that enable
 **computations** that
-**Reason, learn and
+**reason, learn and
 connect**
 Perception to Action.
 
